@@ -6,7 +6,7 @@ CAE Documentation to Markdown Knowledge Base Builder
 
 项目已从单一脚本重构为 **Python 包 (`cae_doc_builder`)**，采用**适配器模式 (Adapter Pattern)** 设计，实现了核心逻辑与具体软件解析的分离，具备极强的扩展性。
 
-**当前版本**: V3.1 (支持 ANSA, Ansys, Abaqus)🏗️ 项目架构与模块功能 (Architecture & Modules)
+**当前版本**: V1.0 (支持 ANSA, Ansys, Abaqus)🏗️ 项目架构与模块功能 (Architecture & Modules)
 
 * * *
 
