@@ -244,3 +244,7 @@ Bash
 * * *
 
 **Version**: V3.1
+
+目前已经导出一版，暂时没发现什么问题：
+通过网盘分享的文件：CAE_Knowledge_Base.7z
+链接: https://pan.baidu.com/s/1uUx0Vq_sZRJF6cDq_aliLw?pwd=8cdb 提取码: 8cdb 
